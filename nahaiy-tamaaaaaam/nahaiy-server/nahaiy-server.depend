@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1580474790 source:c:\users\mahdi\desktop\nahaiy-proje\nahaiy-server\nahaiy-server\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<string.h>
+	<winsock2.h>
+	<string.h>
+	<time.h>
+	"cJSON.c"
+	<conio.h>
+	<dir.h>
+	<process.h>
+	<dirent.h>
+	<errno.h>
+
+1575970725 c:\users\mahdi\desktop\nahaiy-proje\nahaiy-server\nahaiy-server\cjson.c
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<limits.h>
+	<ctype.h>
+	<locale.h>
+	"cJSON.h"
+
+1575970725 c:\users\mahdi\desktop\nahaiy-proje\nahaiy-server\nahaiy-server\cjson.h
+	<stddef.h>
+
+1580493512 source:c:\users\mahdi\desktop\nahaiy-tamaaaaaam\nahaiy-server\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<string.h>
+	<winsock2.h>
+	<string.h>
+	<time.h>
+	"cJSON.c"
+	<conio.h>
+	<dir.h>
+	<process.h>
+	<dirent.h>
+	<errno.h>
+
+1575970725 c:\users\mahdi\desktop\nahaiy-tamaaaaaam\nahaiy-server\cjson.c
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<limits.h>
+	<ctype.h>
+	<locale.h>
+	"cJSON.h"
+
+1575970725 c:\users\mahdi\desktop\nahaiy-tamaaaaaam\nahaiy-server\cjson.h
+	<stddef.h>
+
+1580493514 source:c:\users\mahdi\desktop\nahaiy-alan\nahaiy-tamaaaaaam\nahaiy-server\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<string.h>
+	<winsock2.h>
+	<string.h>
+	<time.h>
+	"cJSON.c"
+	<conio.h>
+	<dir.h>
+	<process.h>
+	<dirent.h>
+	<errno.h>
+
+1575970726 c:\users\mahdi\desktop\nahaiy-alan\nahaiy-tamaaaaaam\nahaiy-server\cjson.c
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<limits.h>
+	<ctype.h>
+	<locale.h>
+	"cJSON.h"
+
+1575970726 c:\users\mahdi\desktop\nahaiy-alan\nahaiy-tamaaaaaam\nahaiy-server\cjson.h
+	<stddef.h>
+

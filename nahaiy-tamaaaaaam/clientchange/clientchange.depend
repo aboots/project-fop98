@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1580478830 source:f:\proj test\clientchange\main.c
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<string.h>
+	<winsock2.h>
+	<string.h>
+	"cJSON.h"
+	"cJSON.c"
+
+1575970725 f:\proj test\clientchange\cjson.h
+	<stddef.h>
+
+1575970725 f:\proj test\clientchange\cjson.c
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<limits.h>
+	<ctype.h>
+	<locale.h>
+	"cJSON.h"
+
+1580495831 source:c:\users\mahdi\desktop\nahaiy-tamaaaaaam\clientchange\main.c
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<string.h>
+	<winsock2.h>
+	<string.h>
+	"cJSON.h"
+	"cJSON.c"
+
+1575970725 c:\users\mahdi\desktop\nahaiy-tamaaaaaam\clientchange\cjson.h
+	<stddef.h>
+
+1575970725 c:\users\mahdi\desktop\nahaiy-tamaaaaaam\clientchange\cjson.c
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<limits.h>
+	<ctype.h>
+	<locale.h>
+	"cJSON.h"
+
+1580771696 source:c:\users\mahdi\desktop\nahaiy-alan\nahaiy-tamaaaaaam\clientchange\main.c
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<string.h>
+	<winsock2.h>
+	<conio.h>
+	<string.h>
+	"cJSON.h"
+	"cJSON.c"
+
+1575970726 c:\users\mahdi\desktop\nahaiy-alan\nahaiy-tamaaaaaam\clientchange\cjson.h
+	<stddef.h>
+
+1575970726 c:\users\mahdi\desktop\nahaiy-alan\nahaiy-tamaaaaaam\clientchange\cjson.c
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<limits.h>
+	<ctype.h>
+	<locale.h>
+	"cJSON.h"
+
